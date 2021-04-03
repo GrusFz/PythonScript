@@ -1,0 +1,19 @@
+{
+    "cnshaw2031": [
+    { "param1":"2031AAAA" },
+    { "param2":"2031BBB" },
+    { "param3":"2031CCC " }
+    ],
+
+    "cnshaw2170": [
+    { "param1":"2170AAAA" },
+    { "param2":"2170BBB" },
+    { "param3":"2170CCC " }
+    ],
+
+    "cnshaw2188": [
+    { "param1":"2188AAAA" },
+    { "param2":"2188BBB" },
+    { "param3":"2188CCC " }
+    ]
+}
